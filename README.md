@@ -28,9 +28,15 @@ Desafio interessante criar IA "natural" - equilibrando aleatoriedade com princí
 
 ## 🎯 Como Usar
 
-```bash
+
 # Clone o repositório
+
+```bash
 git clone [https://github.com/camsste/lab-natty-or-not]
+```
 
 # Execute o projeto
+
+```bash
 python main.py
+```
