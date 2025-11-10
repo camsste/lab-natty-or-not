@@ -1,0 +1,7 @@
+{
+  "peito": ["supino reto", "supino inclinado", "crucifixo", "flexão", "crossover"],
+  "costas": ["barra fixa", "remada curvada", "puxada alta", "serrote", "pull-down"],
+  "pernas": ["agachamento", "leg press", "cadeira extensora", "stiff", "agachamento sumô"],
+  "ombros": ["desenvolvimento", "elevação lateral", "remada alta", "elevação frontal"],
+  "braços": ["rosca direta", "tríceps testa", "paralelas", "rosca martelo", "tríceps corda"]
+}
